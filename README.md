@@ -11,7 +11,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 1. import numpy
 2. import sys
 3.get inputs 
-4. eecute the program
 
 ## Program:
 ```
